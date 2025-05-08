@@ -7,6 +7,7 @@ For better obsidian experience: snippets, templates, prompts
 ## 📁 構成 / Structure
 
 - `dataview/`：Dataview・DataviewJSによるノート可視化スニペット
+  - 特定タグを含むノート＆タグ付き文行の抽出: [`extract-tagged-lines.md`](./dataview/extract-tagged-lines.md)
 - `templates/`：Markdownテンプレ（旅行ログ、読書記録など）
 - `css-snippets/`：軽量なスタイル調整用CSS
 - `plugins/`：使用中プラグインとその設定・使い方
